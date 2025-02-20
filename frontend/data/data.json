@@ -1,0 +1,525 @@
+{
+  "tableData": [
+    {
+      "aliasName": "Cache Serverrrr",
+      "host": "192.168.1.100",
+      "port": 6379,
+      "database": "CacheOSs",
+      "status": "in-active",
+      "id": "3"
+    },
+    {
+      "aliasName": "Database Server",
+      "host": "192.168.1.110",
+      "port": 3306,
+      "database": "MainDB",
+      "isActive": false,
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "aliasName": "Backup Server",
+      "host": "192.168.1.111",
+      "port": 21,
+      "database": "BackupStorage",
+      "status": "inActive"
+    },
+    {
+      "id": "6",
+      "aliasName": "Authentication Server",
+      "host": "192.168.1.112",
+      "port": 5000,
+      "database": "AuthDB",
+      "status": "active"
+    },
+    {
+      "aliasName": "File Storage Serverr",
+      "host": "192.168.1.113",
+      "port": 9000,
+      "database": "FileStore",
+      "status": "active",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "aliasName": "Web Server",
+      "host": "192.168.1.114",
+      "port": 80,
+      "database": "WebContent",
+      "status": "active"
+    },
+    {
+      "id": "9",
+      "aliasName": "Application Server",
+      "host": "192.168.1.115",
+      "port": 3000,
+      "database": "AppData",
+      "status": "inActive"
+    },
+    {
+      "id": "10",
+      "aliasName": "Analytics Server",
+      "host": "192.168.1.116",
+      "port": 5432,
+      "database": "AnalyticsDB",
+      "status": "active"
+    },
+    {
+      "id": "11",
+      "aliasName": "Monitoring Server",
+      "host": "192.168.1.117",
+      "port": 9090,
+      "database": "MonitorDB",
+      "status": "inActive"
+    },
+    {
+      "id": "12",
+      "aliasName": "Development Server",
+      "host": "192.168.1.118",
+      "port": 5001,
+      "database": "DevDB",
+      "status": "active"
+    },
+    {
+      "id": "13",
+      "aliasName": "Staging Server",
+      "host": "192.168.1.119",
+      "port": 4000,
+      "database": "StagingDB",
+      "status": "active"
+    },
+    {
+      "id": "14",
+      "aliasName": "Testing Server",
+      "host": "192.168.1.120",
+      "port": 6000,
+      "database": "TestDB",
+      "status": "active"
+    },
+    {
+      "id": "15",
+      "aliasName": "Proxy Server",
+      "host": "192.168.1.121",
+      "port": 3128,
+      "database": "ProxyData",
+      "status": "inActive"
+    },
+    {
+      "id": "16",
+      "aliasName": "DNS Server",
+      "host": "192.168.1.122",
+      "port": 53,
+      "database": "DNSRecords",
+      "status": "active"
+    },
+    {
+      "id": "17",
+      "aliasName": "Load Balancer",
+      "host": "192.168.1.123",
+      "port": 443,
+      "database": "LoadBalancerDB",
+      "status": "active"
+    },
+    {
+      "id": "18",
+      "aliasName": "SMTP Server",
+      "host": "192.168.1.124",
+      "port": 25,
+      "database": "MailQueue",
+      "status": "inActive"
+    },
+    {
+      "id": "19",
+      "aliasName": "POP3 Server",
+      "host": "192.168.1.125",
+      "port": 110,
+      "database": "MailInbox",
+      "status": "active"
+    },
+    {
+      "id": "20",
+      "aliasName": "IMAP Server",
+      "host": "192.168.1.126",
+      "port": 143,
+      "database": "MailIMAP",
+      "status": "active"
+    },
+    {
+      "aliasName": "VPN Server",
+      "host": "192.168.1.127",
+      "port": 1194,
+      "database": "VPNUsers",
+      "status": "active",
+      "id": "21"
+    },
+    {
+      "id": "22",
+      "aliasName": "Firewall",
+      "host": "192.168.1.128",
+      "port": 8081,
+      "database": "FirewallRules",
+      "status": "active"
+    },
+    {
+      "id": "23",
+      "aliasName": "CDN Server",
+      "host": "192.168.1.129",
+      "port": 8082,
+      "database": "CDNCache",
+      "status": "active"
+    },
+    {
+      "id": "24",
+      "aliasName": "Voice Server",
+      "host": "192.168.1.130",
+      "port": 5060,
+      "database": "VoIPData",
+      "status": "active"
+    },
+    {
+      "aliasName": "Streaming Server",
+      "host": "192.168.1.131",
+      "port": 8083,
+      "database": "MediaStreams",
+      "status": "active",
+      "id": "25"
+    },
+    {
+      "id": "26",
+      "aliasName": "ERP Server",
+      "host": "192.168.1.132",
+      "port": 9001,
+      "database": "ERPData",
+      "status": "active"
+    },
+    {
+      "id": "27",
+      "aliasName": "CRM Server",
+      "host": "192.168.1.133",
+      "port": 9002,
+      "database": "CRMRecords",
+      "status": "active"
+    },
+    {
+      "id": "28",
+      "aliasName": "AI Server",
+      "host": "192.168.1.134",
+      "port": 5002,
+      "database": "AIModelDB",
+      "status": "active"
+    },
+    {
+      "id": "29",
+      "aliasName": "IoT Gateway",
+      "host": "192.168.1.135",
+      "port": 1883,
+      "database": "IoTData",
+      "status": "inActive"
+    },
+    {
+      "id": "30",
+      "aliasName": "Big Data Server",
+      "host": "192.168.1.136",
+      "port": 4001,
+      "database": "HadoopCluster",
+      "status": "active"
+    },
+    {
+      "aliasName": "Blockchain Node",
+      "host": "192.168.1.137",
+      "port": 8545,
+      "database": "BlockchainDB",
+      "status": "active",
+      "id": "31"
+    },
+    {
+      "id": "32",
+      "aliasName": "RPA Server",
+      "host": "192.168.1.138",
+      "port": 6001,
+      "database": "RPAAutomation",
+      "status": "inActive"
+    },
+    {
+      "aliasName": "Legacy System",
+      "host": "192.168.1.139",
+      "port": 7000,
+      "database": "OldDB",
+      "status": "in-active",
+      "id": "33"
+    },
+    {
+      "id": "dcc2",
+      "aliasName": "Test",
+      "host": "192.168.1.106",
+      "port": 5454,
+      "database": "CacheOS",
+      "isActive": false
+    },
+    {
+      "id": "4904",
+      "aliasName": "varun alias",
+      "host": "192.168.1.101",
+      "port": 5468,
+      "database": "Varun DB",
+      "isActive": false
+    },
+    {
+      "id": "9df9",
+      "aliasName": "sdsds",
+      "host": "192.168.1.106",
+      "port": 5454,
+      "database": "CacheOS",
+      "isActive": false
+    }
+  ],
+  "queueList": [
+    {
+      "id": "2",
+      "name": "Queue B",
+      "active": 28,
+      "completed": 870,
+      "delayed": 320,
+      "failed": 45,
+      "waiting": 3,
+      "prioritized": 50,
+      "total": 1316,
+      "workers": 55,
+      "paused": 10
+    },
+    {
+      "id": "3",
+      "name": "Queue C",
+      "active": 60,
+      "completed": 1500,
+      "delayed": 400,
+      "failed": 110,
+      "waiting": 7,
+      "prioritized": 25,
+      "total": 2102,
+      "workers": 80,
+      "paused": 12
+    },
+    {
+      "id": "4",
+      "name": "Queue D",
+      "active": 15,
+      "completed": 500,
+      "delayed": 150,
+      "failed": 30,
+      "waiting": 1,
+      "prioritized": 20,
+      "total": 716,
+      "workers": 30,
+      "paused": 4
+    },
+    {
+      "id": "5",
+      "name": "Queue E",
+      "active": 75,
+      "completed": 2000,
+      "delayed": 500,
+      "failed": 125,
+      "waiting": 10,
+      "prioritized": 60,
+      "total": 2770,
+      "workers": 100,
+      "paused": 15
+    },
+    {
+      "id": "6",
+      "name": "Queue F",
+      "active": 50,
+      "completed": 1345,
+      "delayed": 250,
+      "failed": 60,
+      "waiting": 6,
+      "prioritized": 45,
+      "total": 1756,
+      "workers": 65,
+      "paused": 9
+    },
+    {
+      "id": "7",
+      "name": "Queue G",
+      "active": 40,
+      "completed": 1100,
+      "delayed": 300,
+      "failed": 70,
+      "waiting": 4,
+      "prioritized": 35,
+      "total": 1549,
+      "workers": 50,
+      "paused": 7
+    },
+    {
+      "name": "Queue Hh",
+      "active": 85,
+      "completed": 2500,
+      "delayed": 0,
+      "failed": 150,
+      "waiting": 12,
+      "prioritized": 70,
+      "total": 3417,
+      "workers": 120,
+      "paused": 20,
+      "id": "8"
+    }
+  ],
+  "queue-metrics": {
+    "total": 24,
+    "waiting": 2,
+    "active": 4,
+    "failed": 2,
+    "completed": 16,
+    "delayed": 3
+  },
+  "queue-jobs": [
+    {
+      "id": "dfdf0",
+      "name": "Job A",
+      "createdAt": "12/10/2000",
+      "waited": 120,
+      "processed": 40,
+      "finished": 20,
+      "run": 80,
+      "attempts": 0
+    },
+    {
+      "id": "dfdf1",
+      "name": "Job B",
+      "createdAt": "12/11/2000",
+      "waited": 150,
+      "processed": 60,
+      "finished": 30,
+      "run": 100,
+      "attempts": 1
+    },
+    {
+      "id": "dfdf2",
+      "name": "Job C",
+      "createdAt": "12/12/2000",
+      "waited": 180,
+      "processed": 100,
+      "finished": 60,
+      "run": 140,
+      "attempts": 2
+    },
+    {
+      "id": "dfdf3",
+      "name": "Job D",
+      "createdAt": "12/13/2000",
+      "waited": 90,
+      "processed": 30,
+      "finished": 10,
+      "run": 50,
+      "attempts": 1
+    },
+    {
+      "id": "dfdf4",
+      "name": "Job E",
+      "createdAt": "12/14/2000",
+      "waited": 200,
+      "processed": 120,
+      "finished": 80,
+      "run": 180,
+      "attempts": 3
+    },
+    {
+      "id": "dfdf5",
+      "name": "Job F",
+      "createdAt": "12/15/2000",
+      "waited": 130,
+      "processed": 60,
+      "finished": 40,
+      "run": 120,
+      "attempts": 2
+    },
+    {
+      "id": "dfdf6",
+      "name": "Job G",
+      "createdAt": "12/16/2000",
+      "waited": 110,
+      "processed": 50,
+      "finished": 30,
+      "run": 90,
+      "attempts": 0
+    },
+    {
+      "id": "dfdf7",
+      "name": "Job H",
+      "createdAt": "12/17/2000",
+      "waited": 160,
+      "processed": 70,
+      "finished": 50,
+      "run": 120,
+      "attempts": 3
+    }
+  ],
+  "alertList": [
+    {
+      "id": 1,
+      "status": "Triggered",
+      "type": "FailJobs",
+      "date": "Feb 14, 2022",
+      "time": "4:24:00 AM",
+      "service": "check-connection"
+    },
+    {
+      "id": 2,
+      "status": "Triggered",
+      "type": "MissingWorkers",
+      "date": "Feb 13, 2022",
+      "time": "11:14:11 PM",
+      "service": "monitoring"
+    },
+    {
+      "id": 3,
+      "status": "Triggered",
+      "type": "MissingWorkers",
+      "date": "Feb 13, 2022",
+      "time": "11:14:11 PM",
+      "service": "mailer"
+    },
+    {
+      "id": 4,
+      "status": "Triggered",
+      "type": "MissingWorkers",
+      "date": "Feb 13, 2022",
+      "time": "11:14:11 PM",
+      "service": "monitoring3"
+    },
+    {
+      "id": 5,
+      "status": "Triggered",
+      "type": "MissingWorkers",
+      "date": "Feb 13, 2022",
+      "time": "11:14:11 PM",
+      "service": "check-connection"
+    },
+    {
+      "id": 6,
+      "status": "Triggered",
+      "type": "MissingWorkers",
+      "date": "Feb 12, 2022",
+      "time": "5:21:56 PM",
+      "service": "monitoring"
+    },
+    {
+      "id": 7,
+      "status": "Triggered",
+      "type": "MissingWorkers",
+      "date": "Feb 12, 2022",
+      "time": "5:00:54 PM",
+      "service": "mailer"
+    },
+    {
+      "id": 8,
+      "status": "Triggered",
+      "type": "MissingWorkers",
+      "date": "Feb 12, 2022",
+      "time": "5:00:54 PM",
+      "service": "monitoring3"
+    }
+  ]
+}
